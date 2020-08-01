@@ -110,3 +110,4 @@ else:
 set_key('ProxyEnable', 0)
 set_key('ProxyServer', "")
 print("\nDone.")
+exit()
